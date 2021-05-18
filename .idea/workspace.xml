@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfdbb2a-0231-4eae-8bd4-650ea7ab250c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Adding-two-numbers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Adding-two-numbers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BMI_calculator/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HTML_CSS_Projects/Other sneaker Store/sneaker_store-main/images/adidas-consortium.jpg" beforeDir="false" />
@@ -38,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
